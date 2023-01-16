@@ -1,5 +1,5 @@
 # artalkgo后端 on Replit
-
+修复了bug
 **Rplit一键安装**
 
 将以下代码粘贴至Replit Shell后回车
